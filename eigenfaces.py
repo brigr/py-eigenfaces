@@ -1,17 +1,11 @@
 #!/usr/bin/python
 
 import os
-import sys
 import scipy
 import Image
-import bz2
-import fileinput
 
 import numpy as np
 import numpy.linalg as lin
-
-from cStringIO import StringIO
-from matplotlib import pyplot
 
 # total count of faces
 L = 42
