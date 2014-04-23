@@ -2,6 +2,7 @@
 
 import os
 import scipy
+import scipy.misc
 import Image
 
 import numpy as np
